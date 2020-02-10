@@ -1,5 +1,7 @@
 # my-project3
 
+usa Jquery, momentjs, bootstrap4
+
 ## Project setup
 ```
 npm install
